@@ -13,6 +13,8 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/4225117/peter-yu)](https://stackoverflow.com/users/4225117/peter-yu)
 [![GitHub followers](https://img.shields.io/github/followers/z29591259.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/z29591259?tab=followers)
 
+[![xiaoronglv StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4225117&layout=compact)](https://stackoverflow.com/users/4225117/peter-yu)
+
  - :house: Blog: [https://woodloch.blog/](https://woodloch.blog/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z29591259&repo=Chain)](https://github.com/z29591259/Chain)
