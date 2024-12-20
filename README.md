@@ -21,7 +21,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z29591259&repo=MazeCreator)](https://github.com/z29591259/MazeCreator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z29591259&repo=MemoryGame)](https://github.com/z29591259/MemoryGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z29591259&repo=AstarCustomMap)](https://github.com/z29591259/AstarCustomMap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z29591259&repo=CssTrick)](https://github.com/z29591259/CssTrick)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z29591259&repo=Homebus)](https://github.com/z29591259/HomeBus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z29591259&repo=ClickWeather)](https://github.com/z29591259/ClickWeather)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z29591259&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
